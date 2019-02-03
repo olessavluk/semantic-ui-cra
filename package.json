@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@craco/craco": "^3.4.1",
-    "craco-less": "^1.6.0",
+    "craco-less": "olessavluk/craco-less#master",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3",
